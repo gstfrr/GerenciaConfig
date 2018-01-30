@@ -38,7 +38,9 @@ public class A {
         return A3;
     }
     
-    
+    float soma(){
+        return A1 + A2;
+    }
     
     
 }
